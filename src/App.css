@@ -22,6 +22,11 @@
 .App-link {
   color: #61dafb;
 }
+.g-signin2 {
+  position: fixed;
+  top: 0;
+  background-color: #ffffff;
+}
 
 @keyframes App-logo-spin {
   from {
